@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on gamenetyar project & eshop project
-- 🌱 I’m currently learning django & drf
+- 🔭 I’m currently working on qr code generator
+- 🌱 I’m currently learning django & drf & and some library documnets
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with python
 - 💬 Ask me about your question
