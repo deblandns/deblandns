@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on qr code generator
-- 🌱 I’m currently learning django & drf & and some library documnets
+- 🔭 I’m currently working on weatherappapi
+- 🌱 I’m currently learning drf & and more about git & docker
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with python
 - 💬 Ask me about your question
 - 📫 How to reach me: gmail : hoseinnysyan1385@gmail.com instagram : debland.ns
-- ⚡ Fun fact: i code like owl in nights that you slept
+- ⚡ Fun fact: i code like owl in nights that you sleep
 -->
 
 <!--
