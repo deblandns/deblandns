@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on weatherappapi
+- 🔭 I’m currently working on weblog develope
 - 🌱 I’m currently learning drf & and more about git & docker
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with python
