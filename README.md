@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on weblog develope
 - 🌱 I’m currently learning drf & and more about git & docker
 - 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with python
+- 🤔 I’m looking for help with collabrating
 - 💬 Ask me about your question
 - 📫 How to reach me: gmail : hoseinnysyan1385@gmail.com instagram : debland.ns
 - ⚡ Fun fact: i code like owl in nights that you sleep
