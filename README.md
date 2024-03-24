@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with collabrating
 - 💬 Ask me about your question
 - 📫 How to reach me: gmail : hoseinnysyan1385@gmail.com instagram : debland.ns
-- ⚡ Fun fact: i code like owl in nights that you sleep
+- ⚡ Fun fact: i`m fullstack developer but i prefer to say i`m backend developer
 -->
 
 <!--
