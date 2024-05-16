@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on weblog develope
-- 🌱 I’m currently learning drf & and more about git & docker
+- 🔭 I’m currently working on private tasks and projects
+- 🌱 I’m currently learning everything in relation of backend
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with collabrating
 - 💬 Ask me about your question
