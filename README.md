@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">MOHAMMAD HOSSEIN NEYSIAN 👨‍💻</h1>
 
 ###
 
@@ -77,10 +77,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deblandns/deblandns/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deblandns/deblandns/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deblandns/deblandns/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/deblandns/deblandns/output/snake.svg" alt="Snake animation" />
 
 ###
